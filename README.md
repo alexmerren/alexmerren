@@ -6,4 +6,4 @@ Here are a few things you should know:
  - :one:&nbsp; First Language: HTML
  - :calendar:&nbsp; Latest Language: JavaScript
  - :spiral_notepad:&nbsp; Current IDE: VSCode
- - :file_folder:&nbsp; Most Recent Project: [My Personal Website](https://github.com/alexmerren/personal-website)
+ - :file_folder:&nbsp; Last Project: [My Personal Website](https://github.com/alexmerren/personal-website)

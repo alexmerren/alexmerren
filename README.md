@@ -1,4 +1,4 @@
-Hey :wave:, my name is Alex, and welcome to my GitHub!
+Hey :wave: my name is Alex, and welcome to my GitHub!
 
 Here are a few things you should know:
 
